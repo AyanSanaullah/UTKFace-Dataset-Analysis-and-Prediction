@@ -63,7 +63,7 @@ pip install tensorflow opencv-python matplotlib numpy scikit-learn seaborn
 2. **Run the Script**
    - Execute the script to preprocess the dataset, train models, and evaluate their performance:
    ```bash
-   python script_name.py
+   python utkface_image_model_training.ipynb
    ```
 
 3. **Outputs**
